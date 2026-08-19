@@ -1,0 +1,11 @@
+# Environments
+.venv/
+venv/
+
+# Datasets
+data/
+
+# Cache and logs
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
